@@ -1,7 +1,7 @@
 # Личный проект «Sedona»
 
 * Студент: [Марина](https://github.com/leda217-oss).
-* Наставник: `Без наставника`.
+* Наставник: `z`.
 * Мой проект: [sedona](https://leda217-oss.github.io/sedona_/)
 ---
 
